@@ -1,5 +1,15 @@
-.bg-image{
-    background:url('../assets/Vector.png');
+.font-manrope {
+    font-family: "Manrope", sans-serif;
+}
+
+.image-1{
+    background: url('../assets/bg.jpg');
     background-repeat: no-repeat;
-    
+    background-size: cover;
+}
+
+.bg-image {
+    background: url('../assets/Vector.png');
+    background-repeat: no-repeat;
+
 }
